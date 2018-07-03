@@ -1,8 +1,8 @@
 title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://dizzymacho.github.io/meme-blog
-baseurl: ""
+url: https://dizzymacho.github.io
+baseurl: "/meme-blog"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
